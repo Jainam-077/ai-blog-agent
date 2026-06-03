@@ -155,13 +155,8 @@ OPENAI_API_KEY=your_openai_api_key
 
 ## 📸 Screenshots
 
-Add screenshots of:
+<img width="1920" height="931" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/956e067f-1fcc-465d-9f6e-85818a5bc964" />
 
-* Dashboard
-* Blog Generator
-* Blog History
-* Export Feature
-* Settings Page
 
 ---
 
